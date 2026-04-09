@@ -26,8 +26,8 @@ Coded by **W8Team / MD SOJIB**
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/w8ip-scanner.git
-cd w8ip-scanner
+git clone https://github.com/W8SOJIB/W8IPReverseInfo
+cd W8IPReverseInfo
 ```
 
 ### 2️⃣ Install Requirements
@@ -39,7 +39,7 @@ pip install requests colorama
 ### 3️⃣ Run Tool
 
 ```bash
-python main.py
+python W8IPReverseInfo.py
 ```
 
 ---
@@ -61,8 +61,8 @@ pkg install python git
 ### Step 3: Clone Tool
 
 ```bash
-git clone https://github.com/yourusername/w8ip-scanner.git
-cd w8ip-scanner
+git clone https://github.com/W8SOJIB/W8IPReverseInfo
+cd W8IPReverseInfo
 ```
 
 ### Step 4: Install Requirements
@@ -74,7 +74,7 @@ pip install requests colorama
 ### Step 5: Run
 
 ```bash
-python main.py
+python W8IPReverseInfo.py
 ```
 
 ---
@@ -169,3 +169,47 @@ But must include original credit:
 If you like this tool, give it a ⭐ on GitHub!
 
 ---
+
+## 🔥 W8IP PRO MAX SCANNER
+
+W8IP PRO MAX SCANNER is a powerful Python-based network intelligence and deep scanning tool designed for fast and efficient analysis of domains and IP ranges.
+
+This tool combines multiple features such as domain resolution, reverse IP lookup, server detection, and full port scanning into one lightweight yet powerful CLI utility.
+
+---
+
+### ⚡ Key Capabilities
+
+* 🌐 Convert Domain → IP with detailed information
+* 📡 Scan IP ranges using CIDR notation (/24, /16, /8)
+* 🧠 Reverse DNS (Hostname detection)
+* 🖥 Detect web server (nginx, apache, cloudflare, etc.)
+* 📄 Extract website titles from live servers
+* 🔥 Perform deep scan on ALL ports (1–65535)
+* ⚡ Real-time open port detection
+* 🛑 Interrupt scan anytime using CTRL + C
+* 📁 Automatically save results to file
+* 📱 Fully compatible with Termux (Android)
+
+---
+
+### 🎯 Why This Tool?
+
+W8IP PRO MAX SCANNER is built for speed, simplicity, and flexibility.
+It uses asynchronous scanning techniques to achieve high performance while maintaining a clean and readable output.
+
+Whether you are learning networking, testing systems, or analyzing infrastructure, this tool provides a solid all-in-one solution.
+
+---
+
+### ⚠️ Disclaimer
+
+This tool is intended for educational and authorized security testing purposes only.
+Unauthorized use against systems you do not own is strictly prohibited.
+
+---
+
+### 👑 Author
+
+Developed by **W8Team / MD SOJIB**
+
