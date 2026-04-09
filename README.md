@@ -33,7 +33,7 @@ cd W8IPReverseInfo
 ### 2️⃣ Install Requirements
 
 ```bash
-pip install requests colorama
+pip install -r requirements.txt
 ```
 
 ### 3️⃣ Run Tool
@@ -68,7 +68,7 @@ cd W8IPReverseInfo
 ### Step 4: Install Requirements
 
 ```bash
-pip install requests colorama
+pip install -r requirements.txt
 ```
 
 ### Step 5: Run
